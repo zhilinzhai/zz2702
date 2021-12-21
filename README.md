@@ -1,6 +1,6 @@
-Hello this is my HUDK 4050 Core Methods in Education Data Mining profile 
+Hello this is my HUDK 4050 Core Methods in Education Data Mining portfolio 
 
-In this profile you can see the projects including: 
+In this portfolio you can see the projects including: 
 
 4050 ACA Project 
 
